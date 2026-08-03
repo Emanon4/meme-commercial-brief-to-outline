@@ -1,0 +1,4 @@
+interface:
+  display_name: "商单前策工作台"
+  short_description: "在 Brief 约束内按选题调研维度定向脑暴并制作大纲"
+  default_prompt: "使用 $commercial-brief-to-outline 分析这份商单 Brief，并按群众基础、情绪浓度、认知反差、社交货币、话题张力和价值获得分别发散；没有依据的判断标为待调研，先等我选择方向再制作大纲。"
