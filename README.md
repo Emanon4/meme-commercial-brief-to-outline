@@ -1,5 +1,13 @@
 # Meme｜商单前策工作台 / Commercial Brief to Outline
 
+## 与 Meme 的关系
+
+Meme「多工序撰稿设计环节链」下属的商单前策 Skill。它是 Meme 理论与内容生产方法的应用实践。母项目与总索引：[Emanon4/Meme](https://github.com/Emanon4/Meme)（私有，需访问权限）。
+
+所属撰稿子项目：[Emanon4/meme-script-workflow](https://github.com/Emanon4/meme-script-workflow)（私有）。
+
+本机维护源为 Meme 内的 `多工序撰稿设计环节链/工具/commercial-brief-to-outline/`。日常在母项目维护，再按本目录范围同步独立仓库；独立仓库保留发布、安装及版本历史。实际采集数据、客户资料、密钥和登录态不在同步范围内。
+
 这是 Meme 项目「多工序撰稿设计环节链」中的独立 Codex Skill，用于「分析 Brief—创意脑暴—大纲制作」。客户 Brief 始终是最高约束；创意不会凭空随机生成，而是从群众基础、情绪浓度、认知反差、社交货币、话题张力和价值获得逐项发散，再把有潜力的方向交叉组合。你选择、组合或修正创意以后，它才制作结构大纲。
 
 ## 它与直接让 AI 给十几个点子的区别
